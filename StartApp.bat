@@ -1,0 +1,1 @@
+start ./MVVM4/bin/Debug/net8.0-windows/MVVM4.exe
